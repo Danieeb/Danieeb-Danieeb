@@ -12,8 +12,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=daniel-emad&style=flat-square&label=PROFILE+VIEWS&labelColor=0a192f&color=58A6FF" alt="Profile Views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/daniel-emad?label=Followers&style=flat-square&color=58A6FF&labelColor=0a192f" alt="Followers"/>
-
 </div>
 
 <br/>
